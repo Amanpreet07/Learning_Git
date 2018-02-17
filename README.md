@@ -1,2 +1,3 @@
 # Learning_Git
-just for learning and experimenting with commands.
+### never mind this repo.
+just for learning and experimenting with git console commands.
